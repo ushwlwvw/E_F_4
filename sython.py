@@ -84,7 +84,7 @@ async def _(event):
 ☆ PING : `{ms}`
 ☆ DATE : `{m9zpi}`
 ☆ ID : `{event.sender_id}`
-☆ SOURCE LUCITHON : @E_F_4**
+☆ SOURCE LUCITHON : @H_M_Dr**
 
 -قـم بأرسال `.الاوامر`
 ''')
@@ -390,11 +390,11 @@ async def _(event):
       await event.reply("""السـورس يعمـل | LUCITHON
 ╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍
 
-- المطور : الحجي مصطفى | MUSTAFA 
+- المطور : الخليفه | MUSTAFA 
 
 - سورس بسيط يحتوي على الاوامر المهمة التي تحتاجها
 
-قناة السورس : https://t.me/LUCITHON
+قناة السورس : https://t.me/JZIXl
 ╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍"""
 )
 
